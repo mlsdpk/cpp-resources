@@ -20,6 +20,8 @@ This repository holds a collection of useful materials for learning C++.
 ## Templates
 
 ### Talks
+- [Modern Template Metaprogramming: A Compendium, Part I, Walter E. Brown, CppCon 2014](https://youtu.be/Am2is2QCvxY?si=aOirwoOfaGij3Siq)
+- [Modern Template Metaprogramming: A Compendium, Part II, Walter E. Brown, CppCon 2014](https://youtu.be/a0FliKwcwXE?si=pyAEFpUo-GvQ86qx)
 - [Back to Basics: Templates in C++ - Nicolai Josuttis - CppCon 2022 (YouTube)](https://youtu.be/HqsEHG0QJXU?si=safx45rGxKSguhmE)
 
 ### Books
