@@ -2,11 +2,16 @@
 
 This repository holds a collection of useful materials for learning C++.
 
-## Table of Contents  
+## Table of Contents
+- [Learning C++](#learning-cpp)  
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Universal/Forwarding References](#universalforwarding-references)
 - [Template Metaprogramming](#template-metaprogramming)
     - [Type Traits](#type-traits)
+
+## Learning CPP
+- [Teach Yourself C++ in ∞ Days, Jason turner](https://youtu.be/zUQz4LBBz7M?si=Pv8JkfsewMGZuls8)
+- [A Modern C++ Quick Start Tutorial - 90 Topics in 20 Minutes, Jason turner](https://youtu.be/VpqwCDSfgz0?si=ZQqETHgrQIgyuDC7)
 
 ## Object-Oriented Programming
 
