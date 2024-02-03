@@ -7,6 +7,7 @@ This repository holds a collection of useful materials for learning C++.
 - [Universal/Forwarding References](#universalforwarding-references)
 - [Template Metaprogramming](#template-metaprogramming)
     - [Type Traits](#type-traits)
+    - [SFINAE](#substitution-failure-is-not-an-error-sfinae)
 
 ## Object-Oriented Programming
 
@@ -31,3 +32,14 @@ This repository holds a collection of useful materials for learning C++.
 ### Type Traits
 - [Template Metaprogramming: Type Traits, Part I, Jody Hagins, CppCon 2020](https://youtu.be/tiAVWcjIF6o?si=XB4s2nUpQLOIORhq)
 - [Template Metaprogramming: Type Traits, Part II, Jody Hagins, CppCon 2020](https://youtu.be/dLZcocFOb5Q?si=k2r7yiAP7OadjVAl)
+
+### Substitution failure is not an error (SFINAE)
+
+#### Articles
+- [wikipedia](https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error)
+- [How to make SFINAE pretty – Part 1: what value SFINAE brings to code](https://www.fluentcpp.com/2018/05/15/make-sfinae-pretty-1-what-value-sfinae-brings-to-code/)
+- [How to make SFINAE pretty – Part 2: the hidden beauty of SFINAE](https://www.fluentcpp.com/2018/05/18/make-sfinae-pretty-2-hidden-beauty-sfinae/)
+- [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](https://jguegant.github.io/blogs/tech/sfinae-introduction.html)
+
+#### Talks
+- [Modern C++ Interfaces: Complexity, Emergent Simplicity, SFINAE, and Second Order Properties of Types, Stephen Dewhurst, CppCon 2017](https://youtu.be/PFdWqa68LmA?si=nlIZ723_SZk2Py9f)
