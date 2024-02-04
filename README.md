@@ -6,6 +6,7 @@ This repository holds a collection of useful materials for learning C++.
 - [Learning C++](#learning-cpp)  
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Universal/Forwarding References](#universalforwarding-references)
+- [Concurrency](#concurrency)
 - [Template Metaprogramming](#template-metaprogramming)
     - [Type Traits](#type-traits)
     - [SFINAE](#substitution-failure-is-not-an-error-sfinae)
@@ -23,6 +24,9 @@ This repository holds a collection of useful materials for learning C++.
 
 ### Talks
 - [Universal/Forwarding References - A Key to More Modern C++ - Nicolai Josuttis - C++ on Sea 2022 (YouTube)](https://youtu.be/k1Iz5u_IBZ4?si=gwEqfqpLPlGoM0YO)
+
+## Concurrency
+- [C++ Concurrency in Action, 2nd Edition](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)
 
 ## Template Metaprogramming
 
