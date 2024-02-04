@@ -14,10 +14,6 @@ This repository holds a collection of useful materials for learning C++.
 - [Teach Yourself C++ in ∞ Days, Jason turner](https://youtu.be/zUQz4LBBz7M?si=Pv8JkfsewMGZuls8)
 - [A Modern C++ Quick Start Tutorial - 90 Topics in 20 Minutes, Jason turner](https://youtu.be/VpqwCDSfgz0?si=ZQqETHgrQIgyuDC7)
 
-## Learning CPP
-- [Teach Yourself C++ in ∞ Days, Jason turner](https://youtu.be/zUQz4LBBz7M?si=Pv8JkfsewMGZuls8)
-- [A Modern C++ Quick Start Tutorial - 90 Topics in 20 Minutes, Jason turner](https://youtu.be/VpqwCDSfgz0?si=ZQqETHgrQIgyuDC7)
-
 ## Object-Oriented Programming
 
 ### Talks
