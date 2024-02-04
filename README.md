@@ -26,6 +26,7 @@ This repository holds a collection of useful materials for learning C++.
 - [Universal/Forwarding References - A Key to More Modern C++ - Nicolai Josuttis - C++ on Sea 2022 (YouTube)](https://youtu.be/k1Iz5u_IBZ4?si=gwEqfqpLPlGoM0YO)
 
 ## Concurrency
+### Books
 - [C++ Concurrency in Action, 2nd Edition](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)
 
 ## Template Metaprogramming
