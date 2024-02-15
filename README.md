@@ -10,6 +10,7 @@ This repository holds a collection of useful materials for learning C++.
 - [Template Metaprogramming](#template-metaprogramming)
     - [Type Traits](#type-traits)
     - [SFINAE](#substitution-failure-is-not-an-error-sfinae)
+- [Low Latency C++](#low-latency-c)
 
 ## Learning C++
 - [Teach Yourself C++ in ∞ Days, Jason turner](https://youtu.be/zUQz4LBBz7M?si=Pv8JkfsewMGZuls8)
@@ -53,3 +54,12 @@ This repository holds a collection of useful materials for learning C++.
 
 #### Talks
 - [Modern C++ Interfaces: Complexity, Emergent Simplicity, SFINAE, and Second Order Properties of Types, Stephen Dewhurst, CppCon 2017](https://youtu.be/PFdWqa68LmA?si=nlIZ723_SZk2Py9f)
+
+## Low Latency C++
+
+### Talks
+- [Want fast C++? Know your hardware!, Timur Doumler, CppCon 2016](https://youtu.be/BP6NxVxDQIs?si=fx_MqUeYZbMAF-zO)
+- [When a Microsecond Is an Eternity: High Performance Trading Systems in C++, Carl Cook, CppCon 2017](https://youtu.be/NH1Tta7purM?si=aRKebjW2Ee4exjUi)
+- [Trading at light speed: designing low latency systems in C++, David Gross, Meeting C++ 2022](https://youtu.be/8uAW5FQtcvE?si=K1Ez2PfBrdFX10iP)
+- [What is Low Latency C++? (Part 1) - Timur Doumler - CppNow 2023](https://youtu.be/EzmNeAhWqVs?si=VqOnFBy6TCy0Yyug)
+- [What is Low Latency C++? (Part 2) - Timur Doumler - CppNow 2023](https://youtu.be/5uIsadq-nyk?si=7OzbiH1XVA9hnwzH)
