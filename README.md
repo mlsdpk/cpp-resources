@@ -3,13 +3,15 @@
 This repository holds a collection of useful materials for learning C++.
 
 ## Table of Contents
-- [Learning C++](#learning-cpp)  
+- [Learning C++](#learning-c)  
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Universal/Forwarding References](#universalforwarding-references)
 - [Concurrency](#concurrency)
 - [Template Metaprogramming](#template-metaprogramming)
     - [Type Traits](#type-traits)
     - [SFINAE](#substitution-failure-is-not-an-error-sfinae)
+- [Performance Optimization](#performance-optimization)
+  - [Return Value Optimization (RVO)](#return-value-optimization-rvo)
 - [Low Latency C++](#low-latency-c)
 
 ## Learning C++
@@ -40,6 +42,8 @@ This repository holds a collection of useful materials for learning C++.
 ### Books
 - [C++ Templates: The Complete Guide, 2nd Edition](http://www.tmplbook.com)
 
+    The definitive book on C++ templates.
+
 ### Type Traits
 - [Template Metaprogramming: Type Traits, Part I, Jody Hagins, CppCon 2020](https://youtu.be/tiAVWcjIF6o?si=XB4s2nUpQLOIORhq)
 - [Template Metaprogramming: Type Traits, Part II, Jody Hagins, CppCon 2020](https://youtu.be/dLZcocFOb5Q?si=k2r7yiAP7OadjVAl)
@@ -54,6 +58,16 @@ This repository holds a collection of useful materials for learning C++.
 
 #### Talks
 - [Modern C++ Interfaces: Complexity, Emergent Simplicity, SFINAE, and Second Order Properties of Types, Stephen Dewhurst, CppCon 2017](https://youtu.be/PFdWqa68LmA?si=nlIZ723_SZk2Py9f)
+
+## Performance Optimization
+
+Improving the performance of C++ codebases through various techniques.
+
+### Return Value Optimization (RVO)
+
+- [C++ RVO: Return Value Optimization for Performance in Bloomberg C++ Codebases - Michelle Fae D'Souza](https://www.youtube.com/watch?v=WyxUilrR6fU&list=PLHTh1InhhwT6U7t1yP2K8AtTEKmcM3XU_&index=31)
+
+    A great talk to gain a deeper understanding of what RVO is and how to apply it to improve performance in your codebases. It also shares real-world examples of when the compiler applies RVO and when it doesn’t.
 
 ## Low Latency C++
 
