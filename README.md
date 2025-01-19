@@ -1,6 +1,6 @@
 # C++ Learning Resources
 
-This repository holds a collection of useful materials for learning C++.
+This repository holds a collection of useful materials for learning modern C++.
 
 ## Table of Contents
 - [Learning C++](#learning-c)  
