@@ -13,6 +13,7 @@ This repository holds a collection of useful materials for learning modern C++.
 - [Performance Optimization](#performance-optimization)
   - [Return Value Optimization (RVO)](#return-value-optimization-rvo)
 - [Low Latency C++](#low-latency-c)
+- [C++ 20](#c-20)
 
 ## Learning C++
 - [Teach Yourself C++ in ∞ Days, Jason turner](https://youtu.be/zUQz4LBBz7M?si=Pv8JkfsewMGZuls8)
@@ -77,3 +78,9 @@ Improving the performance of C++ codebases through various techniques.
 - [Trading at light speed: designing low latency systems in C++, David Gross, Meeting C++ 2022](https://youtu.be/8uAW5FQtcvE?si=K1Ez2PfBrdFX10iP)
 - [What is Low Latency C++? (Part 1) - Timur Doumler - CppNow 2023](https://youtu.be/EzmNeAhWqVs?si=VqOnFBy6TCy0Yyug)
 - [What is Low Latency C++? (Part 2) - Timur Doumler - CppNow 2023](https://youtu.be/5uIsadq-nyk?si=7OzbiH1XVA9hnwzH)
+
+## C++ 20
+
+- [How C++20 Changes the Way We Write Code - Timur Doumler - CppCon 2020](https://www.youtube.com/watch?v=ImLFlLjSveM)
+    
+    A must-watch talk for anyone starting to learn C++20 — Timur explains how powerful new features like concepts, ranges, coroutines, and modules fundamentally change the way we use to write modern C++ code.
